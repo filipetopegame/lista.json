@@ -1,0 +1,7 @@
+{
+  "nome_da_lista": "Lista Filipe 2026",
+  "partes": [
+    "https://raw.githubusercontent.com/filipetopegame/lista.json/refs/heads/main/lista_parte_1.json",
+    "https://raw.githubusercontent.com/filipetopegame/lista.json/refs/heads/main/lista_parte_2.json"
+  ]
+}
