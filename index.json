@@ -1,11 +1,8 @@
 {
   "nome_da_lista": "Lista Filipe 2026",
   "partes": [
-    "https://drive.usercontent.google.com/download?id=1Gwo7w5dOpLSuIPxe1qosvfa9xD05BjPU&export=download&authuser=1&confirm=t&uuid=d139949c-d5e9-46c6-b435-c89dd89e6cb5&at=ALBwUglTYio4npM73TOonN4aVwXF:1777915963303",
-    "https://drive.usercontent.google.com/download?id=1Z9uJVo5FRG7yuO2ljeOhB2oTZo2eNwjJ&export=download&authuser=1&confirm=t&uuid=85373d9f-0f5b-4917-b59d-94ffcfd0e4f0&at=ALBwUgmAMGBenm6kG_Nxz69ZX2Z8:1777916033721",
-    "https://drive.usercontent.google.com/download?id=1YY_KeFP6nyzerddygaRSdfI6RC8yEK9w&export=download&authuser=1",
-    "https://drive.usercontent.google.com/download?id=1y-rp6s-h1C316E-p1xcim-9Yd2IvfJqh&export=download&authuser=1",
-    "https://drive.usercontent.google.com/download?id=1wx9dzRGbVQlTmdfXbGbmvM6ZTKv6JhXL&export=download&authuser=1",
-    "https://drive.usercontent.google.com/download?id=1PL1GldNIqusq7Wh55Gcppv5V440f-CI5&export=download&authuser=1"
+    "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR01.m3u8",
+    "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR02.m3u8",
+    "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR03.m3u8"
   ]
 }
